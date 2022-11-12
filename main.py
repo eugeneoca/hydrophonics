@@ -15,6 +15,7 @@ class Main(QtWidgets.QMainWindow, Ui_MainWindow):
     def uiDefinitions(self):
         self.setWindowFlag(QtCore.Qt.FramelessWindowHint)
         self.setAttribute(QtCore.Qt.WA_TranslucentBackground)
+        self.setWindowFlag(QtCore.Qt.WindowState.WindowFullScreen)
 
 
 if __name__ == '__main__':
