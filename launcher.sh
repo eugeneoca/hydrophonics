@@ -2,5 +2,6 @@
 # launcher.sh
 cd /
 cd home/pi/hydrophonics
-sudo python main.py
+export DISPLAY=:0.0
+sudo python3 main.py
 cd /
