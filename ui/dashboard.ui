@@ -47,7 +47,7 @@
          </sizepolicy>
         </property>
         <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
+         <enum>QFrame::NoFrame</enum>
         </property>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
@@ -106,7 +106,7 @@ font: 75 9pt &quot;Segoe UI Bold&quot;;</string>
       <item>
        <widget class="QFrame" name="frame_3">
         <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
+         <enum>QFrame::NoFrame</enum>
         </property>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
@@ -163,7 +163,7 @@ font: 75 9pt &quot;Segoe UI Bold&quot;;</string>
       <item>
        <widget class="QFrame" name="frame_2">
         <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
+         <enum>QFrame::NoFrame</enum>
         </property>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
@@ -236,7 +236,7 @@ font: 25 9pt &quot;Segoe UI&quot;;</string>
 }</string>
         </property>
         <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
+         <enum>QFrame::NoFrame</enum>
         </property>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
@@ -257,7 +257,7 @@ font: 25 9pt &quot;Segoe UI&quot;;</string>
          <item>
           <widget class="QFrame" name="frame_4">
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -266,7 +266,7 @@ font: 25 9pt &quot;Segoe UI&quot;;</string>
             <item>
              <widget class="QFrame" name="frame_7">
               <property name="frameShape">
-               <enum>QFrame::StyledPanel</enum>
+               <enum>QFrame::NoFrame</enum>
               </property>
               <property name="frameShadow">
                <enum>QFrame::Raised</enum>
@@ -292,7 +292,7 @@ font: 10pt &quot;Segoe UI&quot;;</string>
                <string notr="true"/>
               </property>
               <property name="frameShape">
-               <enum>QFrame::StyledPanel</enum>
+               <enum>QFrame::NoFrame</enum>
               </property>
               <property name="frameShadow">
                <enum>QFrame::Raised</enum>
@@ -325,7 +325,7 @@ font: 9pt &quot;Segoe UI&quot;;</string>
 font: 16pt &quot;Segoe UI&quot;;</string>
            </property>
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -357,7 +357,7 @@ color: rgb(255, 255, 255);</string>
          <item>
           <widget class="QFrame" name="frame_6">
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -392,7 +392,7 @@ font: 25 10pt &quot;Segoe UI&quot;;</string>
 }</string>
         </property>
         <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
+         <enum>QFrame::NoFrame</enum>
         </property>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
@@ -413,7 +413,7 @@ font: 25 10pt &quot;Segoe UI&quot;;</string>
          <item>
           <widget class="QFrame" name="frame_9">
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -422,7 +422,7 @@ font: 25 10pt &quot;Segoe UI&quot;;</string>
             <item>
              <widget class="QFrame" name="frame_12">
               <property name="frameShape">
-               <enum>QFrame::StyledPanel</enum>
+               <enum>QFrame::NoFrame</enum>
               </property>
               <property name="frameShadow">
                <enum>QFrame::Raised</enum>
@@ -445,7 +445,7 @@ font: 10pt &quot;Segoe UI&quot;;</string>
             <item>
              <widget class="QFrame" name="frame_13">
               <property name="frameShape">
-               <enum>QFrame::StyledPanel</enum>
+               <enum>QFrame::NoFrame</enum>
               </property>
               <property name="frameShadow">
                <enum>QFrame::Raised</enum>
@@ -480,7 +480,7 @@ font: 9pt &quot;Segoe UI&quot;;</string>
             </sizepolicy>
            </property>
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -520,7 +520,7 @@ color: rgb(255, 255, 255);</string>
          <item>
           <widget class="QFrame" name="frame_11">
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -555,7 +555,7 @@ font: 25 10pt &quot;Segoe UI&quot;;</string>
 }</string>
         </property>
         <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
+         <enum>QFrame::NoFrame</enum>
         </property>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
@@ -576,7 +576,7 @@ font: 25 10pt &quot;Segoe UI&quot;;</string>
          <item>
           <widget class="QFrame" name="frame_14">
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -585,7 +585,7 @@ font: 25 10pt &quot;Segoe UI&quot;;</string>
             <item>
              <widget class="QFrame" name="frame_19">
               <property name="frameShape">
-               <enum>QFrame::StyledPanel</enum>
+               <enum>QFrame::NoFrame</enum>
               </property>
               <property name="frameShadow">
                <enum>QFrame::Raised</enum>
@@ -608,7 +608,7 @@ font: 10pt &quot;Segoe UI&quot;;</string>
             <item>
              <widget class="QFrame" name="frame_20">
               <property name="frameShape">
-               <enum>QFrame::StyledPanel</enum>
+               <enum>QFrame::NoFrame</enum>
               </property>
               <property name="frameShadow">
                <enum>QFrame::Raised</enum>
@@ -643,7 +643,7 @@ font: 9pt &quot;Segoe UI&quot;;</string>
             </sizepolicy>
            </property>
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -658,7 +658,7 @@ font: 9pt &quot;Segoe UI&quot;;</string>
                <string notr="true"/>
               </property>
               <property name="frameShape">
-               <enum>QFrame::StyledPanel</enum>
+               <enum>QFrame::NoFrame</enum>
               </property>
               <property name="frameShadow">
                <enum>QFrame::Raised</enum>
@@ -687,7 +687,7 @@ color: rgb(255, 255, 255);</string>
             <item>
              <widget class="QFrame" name="frame_18">
               <property name="frameShape">
-               <enum>QFrame::StyledPanel</enum>
+               <enum>QFrame::NoFrame</enum>
               </property>
               <property name="frameShadow">
                <enum>QFrame::Raised</enum>
@@ -716,7 +716,7 @@ color: rgb(255, 255, 255);</string>
          <item>
           <widget class="QFrame" name="frame_16">
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -789,7 +789,7 @@ font: 25 12pt &quot;Segoe UI&quot;;
 }</string>
         </property>
         <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
+         <enum>QFrame::NoFrame</enum>
         </property>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
@@ -798,7 +798,7 @@ font: 25 12pt &quot;Segoe UI&quot;;
          <item>
           <widget class="QFrame" name="frame_21">
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -876,7 +876,7 @@ font: 25 12pt &quot;Segoe UI&quot;;</string>
 }</string>
         </property>
         <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
+         <enum>QFrame::NoFrame</enum>
         </property>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
@@ -885,7 +885,7 @@ font: 25 12pt &quot;Segoe UI&quot;;</string>
          <item>
           <widget class="QFrame" name="frame_22">
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -968,7 +968,7 @@ font: 25 12pt &quot;Segoe UI&quot;;</string>
 }</string>
         </property>
         <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
+         <enum>QFrame::NoFrame</enum>
         </property>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
@@ -977,7 +977,7 @@ font: 25 12pt &quot;Segoe UI&quot;;</string>
          <item>
           <widget class="QFrame" name="frame_23">
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
@@ -1054,7 +1054,7 @@ font: 25 12pt &quot;Segoe UI&quot;;</string>
 }</string>
         </property>
         <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
+         <enum>QFrame::NoFrame</enum>
         </property>
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
@@ -1063,7 +1063,7 @@ font: 25 12pt &quot;Segoe UI&quot;;</string>
          <item>
           <widget class="QFrame" name="frame_24">
            <property name="frameShape">
-            <enum>QFrame::StyledPanel</enum>
+            <enum>QFrame::NoFrame</enum>
            </property>
            <property name="frameShadow">
             <enum>QFrame::Raised</enum>
