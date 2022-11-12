@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>box-arrow-down.png</file>
+    <file>divider.png</file>
+    <file>battery-charging.png</file>
+    <file>hdd-network-fill.png</file>
+  </qresource>
+  <qresource prefix="buttons">
+    <file>about-button.png</file>
+    <file>help-button.png</file>
+  </qresource>
+  <qresource prefix="bg">
+    <file>settings-bg.png</file>
+    <file>bar-bg.png</file>
+    <file>insight-bg.png</file>
+    <file>chem-level-bg.png</file>
+  </qresource>
+</RCC>
