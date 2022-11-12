@@ -1,9 +1,9 @@
 <RCC>
   <qresource prefix="icons">
-    <file>box-arrow-down.png</file>
-    <file>divider.png</file>
     <file>battery-charging.png</file>
+    <file>box-arrow-down.png</file>
     <file>hdd-network-fill.png</file>
+    <file>divider.png</file>
   </qresource>
   <qresource prefix="buttons">
     <file>about-button.png</file>
