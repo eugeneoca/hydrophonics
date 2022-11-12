@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>850</width>
-    <height>537</height>
+    <width>704</width>
+    <height>540</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -55,6 +55,12 @@
         <layout class="QHBoxLayout" name="horizontalLayout_5">
          <item>
           <widget class="QLabel" name="label_2">
+           <property name="maximumSize">
+            <size>
+             <width>20</width>
+             <height>20</height>
+            </size>
+           </property>
            <property name="baseSize">
             <size>
              <width>0</width>
@@ -84,7 +90,7 @@
           <widget class="QLabel" name="label">
            <property name="styleSheet">
             <string notr="true">color: white;
-font: 75 12pt &quot;Segoe UI Bold&quot;;</string>
+font: 75 9pt &quot;Segoe UI Bold&quot;;</string>
            </property>
            <property name="text">
             <string>Mission Control</string>
@@ -121,6 +127,12 @@ font: 75 12pt &quot;Segoe UI Bold&quot;;</string>
          </item>
          <item>
           <widget class="QLabel" name="btn_settings">
+           <property name="maximumSize">
+            <size>
+             <width>20</width>
+             <height>20</height>
+            </size>
+           </property>
            <property name="text">
             <string/>
            </property>
@@ -161,7 +173,7 @@ font: 75 12pt &quot;Segoe UI Bold&quot;;</string>
           <widget class="QLabel" name="txt_date">
            <property name="styleSheet">
             <string notr="true">color: white;
-font: 25 12pt &quot;Segoe UI&quot;;</string>
+font: 25 9pt &quot;Segoe UI&quot;;</string>
            </property>
            <property name="text">
             <string>November 4, 2022</string>
@@ -173,6 +185,12 @@ font: 25 12pt &quot;Segoe UI&quot;;</string>
          </item>
          <item>
           <widget class="QLabel" name="label_4">
+           <property name="maximumSize">
+            <size>
+             <width>16777215</width>
+             <height>20</height>
+            </size>
+           </property>
            <property name="text">
             <string/>
            </property>
@@ -186,6 +204,12 @@ font: 25 12pt &quot;Segoe UI&quot;;</string>
          </item>
          <item>
           <widget class="QLabel" name="label_3">
+           <property name="maximumSize">
+            <size>
+             <width>20</width>
+             <height>20</height>
+            </size>
+           </property>
            <property name="text">
             <string/>
            </property>
@@ -252,7 +276,7 @@ font: 25 12pt &quot;Segoe UI&quot;;</string>
                 <widget class="QLabel" name="label_17">
                  <property name="styleSheet">
                   <string notr="true">color: rgb(255, 255, 255);
-font: 14pt &quot;Segoe UI&quot;;</string>
+font: 10pt &quot;Segoe UI&quot;;</string>
                  </property>
                  <property name="text">
                   <string>PH Level</string>
@@ -278,7 +302,7 @@ font: 14pt &quot;Segoe UI&quot;;</string>
                 <widget class="QLabel" name="txt_average_ph_level">
                  <property name="styleSheet">
                   <string notr="true">color: rgb(255, 255, 255, 100);
-font: 12pt &quot;Segoe UI&quot;;</string>
+font: 9pt &quot;Segoe UI&quot;;</string>
                  </property>
                  <property name="text">
                   <string>Average: 7</string>
@@ -316,7 +340,7 @@ font: 16pt &quot;Segoe UI&quot;;</string>
                </sizepolicy>
               </property>
               <property name="styleSheet">
-               <string notr="true">font: 40pt &quot;Segoe UI&quot;;
+               <string notr="true">font: 25pt &quot;Segoe UI&quot;;
 color: rgb(255, 255, 255);</string>
               </property>
               <property name="text">
@@ -408,7 +432,7 @@ font: 25 10pt &quot;Segoe UI&quot;;</string>
                 <widget class="QLabel" name="label_21">
                  <property name="styleSheet">
                   <string notr="true">color: rgb(255, 255, 255);
-font: 14pt &quot;Segoe UI&quot;;</string>
+font: 10pt &quot;Segoe UI&quot;;</string>
                  </property>
                  <property name="text">
                   <string>TDS(ppm)</string>
@@ -431,7 +455,7 @@ font: 14pt &quot;Segoe UI&quot;;</string>
                 <widget class="QLabel" name="txt_average_tds_level">
                  <property name="styleSheet">
                   <string notr="true">color: rgb(255, 255, 255, 100);
-font: 12pt &quot;Segoe UI&quot;;</string>
+font: 9pt &quot;Segoe UI&quot;;</string>
                  </property>
                  <property name="text">
                   <string>Average: 500ppm</string>
@@ -468,7 +492,7 @@ font: 12pt &quot;Segoe UI&quot;;</string>
             <item>
              <widget class="QLabel" name="txt_current_tds_level">
               <property name="styleSheet">
-               <string notr="true">font: 40pt &quot;Segoe UI&quot;;
+               <string notr="true">font: 25pt &quot;Segoe UI&quot;;
 color: rgb(255, 255, 255);</string>
               </property>
               <property name="text">
@@ -482,7 +506,7 @@ color: rgb(255, 255, 255);</string>
             <item>
              <widget class="QLabel" name="label_24">
               <property name="styleSheet">
-               <string notr="true">font: 20pt &quot;Segoe UI&quot;;
+               <string notr="true">font: 14pt &quot;Segoe UI&quot;;
 color: rgb(255, 255, 255);</string>
               </property>
               <property name="text">
@@ -571,7 +595,7 @@ font: 25 10pt &quot;Segoe UI&quot;;</string>
                 <widget class="QLabel" name="label_27">
                  <property name="styleSheet">
                   <string notr="true">color: rgb(255, 255, 255);
-font: 14pt &quot;Segoe UI&quot;;</string>
+font: 10pt &quot;Segoe UI&quot;;</string>
                  </property>
                  <property name="text">
                   <string>TEMP(°C)</string>
@@ -594,7 +618,7 @@ font: 14pt &quot;Segoe UI&quot;;</string>
                 <widget class="QLabel" name="txt_average_temp_level">
                  <property name="styleSheet">
                   <string notr="true">color: rgb(255, 255, 255, 100);
-font: 12pt &quot;Segoe UI&quot;;</string>
+font: 9pt &quot;Segoe UI&quot;;</string>
                  </property>
                  <property name="text">
                   <string>Average: 45°C</string>
@@ -646,7 +670,7 @@ font: 12pt &quot;Segoe UI&quot;;</string>
                <item>
                 <widget class="QLabel" name="txt_current_temp_level">
                  <property name="styleSheet">
-                  <string notr="true">font: 40pt &quot;Segoe UI&quot;;
+                  <string notr="true">font: 25pt &quot;Segoe UI&quot;;
 color: rgb(255, 255, 255);</string>
                  </property>
                  <property name="text">
@@ -675,7 +699,7 @@ color: rgb(255, 255, 255);</string>
                <item>
                 <widget class="QLabel" name="label_26">
                  <property name="styleSheet">
-                  <string notr="true">font: 20pt &quot;Segoe UI&quot;;
+                  <string notr="true">font: 14pt &quot;Segoe UI&quot;;
 color: rgb(255, 255, 255);</string>
                  </property>
                  <property name="text">
@@ -770,24 +794,7 @@ font: 25 12pt &quot;Segoe UI&quot;;
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
         </property>
-        <layout class="QHBoxLayout" name="horizontalLayout_8">
-         <item>
-          <widget class="QLabel" name="label_9">
-           <property name="styleSheet">
-            <string notr="true">color: white;
-font: 25 12pt &quot;Segoe UI&quot;;</string>
-           </property>
-           <property name="text">
-            <string>ACID</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignCenter</set>
-           </property>
-           <property name="margin">
-            <number>10</number>
-           </property>
-          </widget>
-         </item>
+        <layout class="QVBoxLayout" name="verticalLayout_2">
          <item>
           <widget class="QFrame" name="frame_21">
            <property name="frameShape">
@@ -840,6 +847,23 @@ QProgressBar::chunk {
            </layout>
           </widget>
          </item>
+         <item>
+          <widget class="QLabel" name="label_9">
+           <property name="styleSheet">
+            <string notr="true">color: white;
+font: 25 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>ACID</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignCenter</set>
+           </property>
+           <property name="margin">
+            <number>10</number>
+           </property>
+          </widget>
+         </item>
         </layout>
        </widget>
       </item>
@@ -857,24 +881,7 @@ QProgressBar::chunk {
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
         </property>
-        <layout class="QHBoxLayout" name="horizontalLayout_9">
-         <item>
-          <widget class="QLabel" name="label_10">
-           <property name="styleSheet">
-            <string notr="true">color: white;
-font: 25 12pt &quot;Segoe UI&quot;;</string>
-           </property>
-           <property name="text">
-            <string>BASE</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignCenter</set>
-           </property>
-           <property name="margin">
-            <number>10</number>
-           </property>
-          </widget>
-         </item>
+        <layout class="QVBoxLayout" name="verticalLayout_6">
          <item>
           <widget class="QFrame" name="frame_22">
            <property name="frameShape">
@@ -933,6 +940,23 @@ QProgressBar::chunk {
            </layout>
           </widget>
          </item>
+         <item>
+          <widget class="QLabel" name="label_10">
+           <property name="styleSheet">
+            <string notr="true">color: white;
+font: 25 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>BASE</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignCenter</set>
+           </property>
+           <property name="margin">
+            <number>10</number>
+           </property>
+          </widget>
+         </item>
         </layout>
        </widget>
       </item>
@@ -949,24 +973,7 @@ QProgressBar::chunk {
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
         </property>
-        <layout class="QHBoxLayout" name="horizontalLayout_10">
-         <item>
-          <widget class="QLabel" name="label_13">
-           <property name="styleSheet">
-            <string notr="true">color: white;
-font: 25 12pt &quot;Segoe UI&quot;;</string>
-           </property>
-           <property name="text">
-            <string>NUTRIENT A</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignCenter</set>
-           </property>
-           <property name="margin">
-            <number>10</number>
-           </property>
-          </widget>
-         </item>
+        <layout class="QVBoxLayout" name="verticalLayout_7">
          <item>
           <widget class="QFrame" name="frame_23">
            <property name="frameShape">
@@ -1019,6 +1026,23 @@ QProgressBar::chunk {
            </layout>
           </widget>
          </item>
+         <item>
+          <widget class="QLabel" name="label_13">
+           <property name="styleSheet">
+            <string notr="true">color: white;
+font: 25 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>NUTRIENT A</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignCenter</set>
+           </property>
+           <property name="margin">
+            <number>10</number>
+           </property>
+          </widget>
+         </item>
         </layout>
        </widget>
       </item>
@@ -1035,24 +1059,7 @@ QProgressBar::chunk {
         <property name="frameShadow">
          <enum>QFrame::Raised</enum>
         </property>
-        <layout class="QHBoxLayout" name="horizontalLayout_11">
-         <item>
-          <widget class="QLabel" name="label_15">
-           <property name="styleSheet">
-            <string notr="true">color: white;
-font: 25 12pt &quot;Segoe UI&quot;;</string>
-           </property>
-           <property name="text">
-            <string>NUTRIENT B</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignCenter</set>
-           </property>
-           <property name="margin">
-            <number>10</number>
-           </property>
-          </widget>
-         </item>
+        <layout class="QVBoxLayout" name="verticalLayout_8">
          <item>
           <widget class="QFrame" name="frame_24">
            <property name="frameShape">
@@ -1103,6 +1110,23 @@ QProgressBar::chunk {
              </widget>
             </item>
            </layout>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_15">
+           <property name="styleSheet">
+            <string notr="true">color: white;
+font: 25 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>NUTRIENT B</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignCenter</set>
+           </property>
+           <property name="margin">
+            <number>10</number>
+           </property>
           </widget>
          </item>
         </layout>
