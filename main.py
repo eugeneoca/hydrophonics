@@ -19,6 +19,7 @@ class Main(QtWidgets.QMainWindow, Ui_MainWindow):
 
 
 if __name__ == '__main__':
+    print("Hydrophonics Software V1.0")
     app = QApplication(sys.argv)
     form = Main()
     form.show()
